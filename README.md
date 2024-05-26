@@ -1,5 +1,3 @@
-# ABBAS343.github.io
-ussdapp
 <DOCTYPE html>
 <html lang="en">
 <head>
