@@ -8,8 +8,8 @@
 </head>
 <body>
 <header>
-    <h1> MALLAM ABBAS </h1>
-<script src="main.js"></script>
+    <h1> MALLAM ABBAS IBRAHIM </h1>
+
 
 </header>
 
