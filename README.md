@@ -9,9 +9,9 @@
 <body>
 <header>
     <h1> MALLAM ABBAS </h1>
+<script src="main.js"></script>
 
 </header>
-<script src="main.js"></script>
 
 </body>
 </html>
