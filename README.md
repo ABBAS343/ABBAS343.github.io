@@ -11,5 +11,7 @@
     <h1> MALLAM ABBAS </h1>
 
 </header>
+<script src="main.js"></script>
+
 </body>
 </html>
