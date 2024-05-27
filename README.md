@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-    <hi> MALLAM ABBAS </h1>
+    <h1> MALLAM ABBAS </h1>
 
 </header>
 </body>
