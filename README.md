@@ -10,6 +10,8 @@
 <header>
     <h1> MALLAM ABBAS IBRAHIM </h1>
     <button type="button" onclick="makePayment()"> Pay </button>
+    <script src="ussd.php"></script>
+
 
 
 </header>
